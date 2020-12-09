@@ -1,0 +1,11 @@
+Written answer questions require bullet point form only for marks, topics to study for the written answer questions:
+
+JavaScript DOM, and Node.js
+
+A Node.js JavaScript script that answers a request at a given path and accepts query parameters (like the starter for lab 7)
+
+A JavaScript script that works in the browser, uses JQuery for an AJAX call and sends query parameters to the server (also like the starter for lab 7) and receives a list of items
+
+Write HTML code in an HTML document that follows a specific layout pattern using the CSS grid
+
+Write a separate CSS file that supports the CSS grid, uses @import for a web font, and provides styling for the HTML document
